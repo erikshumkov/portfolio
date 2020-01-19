@@ -2001,7 +2001,7 @@ input[type='button']:hover,
 button:hover,
 a.button:hover {
   color: #fff;
-  background-color: #8acb82;
+  background-color: #548ed4;
   border-color: transparent;
 }
 input[type='submit']:active,
@@ -7011,7 +7011,7 @@ a:hover {
 }
 @media screen and (min-width: 768px) {
   .site-title {
-    background: #2ba163;
+    background: #548ed4;
   }
 }
 
@@ -7030,7 +7030,7 @@ a.button:hover,
 a.more-link:hover,
 .section-title h2 i,
 .event:nth-of-type(2):after {
-  background-color: #8acb82;
+  background-color: #548ed4;
 }
 .section-title h2:after,
 .section-title h2:before {
