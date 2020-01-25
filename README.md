@@ -1,5 +1,5 @@
 # Portfolio website
 
-HTML Template website 
+HTML, CSS, JavaScript Template website. 
 
 www.erikshumkov.com
